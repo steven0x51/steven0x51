@@ -2,6 +2,8 @@
 - 🌱 I’m currently learning Azure Function and Azure OpenAI Service.
 - 📫 How to reach me: stevenqiang@ssw.com.au
 
+[![Steven's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=steven0x51&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 
 [![Steven's github stats](https://github-readme-stats.vercel.app/api?username=steven0x51&theme=dark)](https://github.com/steven0x51/github-readme-stats)
 -->
